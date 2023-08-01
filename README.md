@@ -1,5 +1,6 @@
 ### Hi there, welcome to my GH page 👋
 IT student from Brno, 🇨🇿
+
 VUT -> MUNI
 
 Currently learning Rust, TS and React / Next.js
