@@ -1,4 +1,9 @@
 ### Hi there, welcome to my GH page 👋
+IT student from Brno, 🇨🇿
+VUT -> MUNI
+
+Currently learning Rust, TS and React / Next.js
+
 ![Tademait's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tademait&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <!--
 **Tademait/Tademait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
