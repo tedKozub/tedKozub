@@ -1,9 +1,6 @@
 ### Hi there, welcome to my GH page 👋
-IT student from Brno, 🇨🇿
+Brno, 🇨🇿
 
-VUT -> MUNI
-
-Currently learning Rust, TS and React / Next.js
 
 ![tedKozub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tedKozub&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 <!--
